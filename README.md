@@ -1,7 +1,13 @@
 <p align="center">
-    <img width="140" style="border-radius:50%; overflow:hidden;" src="https://avatars.githubusercontent.com/u/54493253?v=4" />
+    <img width="140" height="140" class="indeximage" src="https://avatars.githubusercontent.com/u/54493253?v=4" />
+    <style type="text/css">
+    .indeximage{
+        border-radius:100%;
+    }
+    </style>
     <h2 align="center">Bruce</h2>
-<p align="center"> :love_letter:热爱可抵岁月漫长,温柔可挡艰难时光:computer: </p></p>
+    <p align="center"> :love_letter:热爱可抵岁月漫长,温柔可挡艰难时光:computer: </p>
+</p>
 
 <!--
 **joker0ops/joker0ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
