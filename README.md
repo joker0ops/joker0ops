@@ -1,7 +1,7 @@
 <p align="center">
-    <img width="140" src="https://avatars.githubusercontent.com/u/54493253?v=4" />
+    <img width="140" style="border-radius:50%; overflow:hidden;" src="https://avatars.githubusercontent.com/u/54493253?v=4" />
     <h2 align="center">Bruce</h2>
-<p align="center"> :kissing_heart:热爱可抵岁月漫长,温柔可挡艰难时光:kissing_heart:</p></p>
+<p align="center"> :love_letter:热爱可抵岁月漫长,温柔可挡艰难时光:computer: </p></p>
 
 <p align="center">
     <a href="https://fxxkpython.com"><img align="center"srce="https://github-readme-stats.vercel.app/api?username=wistbeanthide=contribs"/>10</a>
