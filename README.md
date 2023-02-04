@@ -4,8 +4,8 @@
     <p align="center"> :love_letter:热爱可抵岁月漫长,温柔可挡艰难时光:computer: </p>
 </p>
 
-## Hi, there!
 
+- Hi, there!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
