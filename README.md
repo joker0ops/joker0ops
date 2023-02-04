@@ -1,10 +1,5 @@
 <p align="center">
-    <img width="140" height="140" class="indeximage" src="https://avatars.githubusercontent.com/u/54493253?v=4" />
-    <style type="text/css">
-    .indeximage{
-        border-radius:100%;
-    }
-    </style>
+    <img width="140" height="140" border-radius="100%" src="https://avatars.githubusercontent.com/u/54493253?v=4" />
     <h2 align="center">Bruce</h2>
     <p align="center"> :love_letter:热爱可抵岁月漫长,温柔可挡艰难时光:computer: </p>
 </p>
