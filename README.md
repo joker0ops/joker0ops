@@ -3,9 +3,6 @@
     <h2 align="center">Bruce</h2>
 <p align="center"> :love_letter:热爱可抵岁月漫长,温柔可挡艰难时光:computer: </p></p>
 
-<p align="center">
-    <a href="https://fxxkpython.com"><img align="center"srce="https://github-readme-stats.vercel.app/api?username=wistbeanthide=contribs"/>10</a>
-</p>
 <!--
 **joker0ops/joker0ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
