@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="140" height="140" border-radius="100%" src="/img/avatar.png" />
+    <img width="140" height="140" border-radius="100%" src="./avatar.png" />
     <h2 align="center">Bruce</h2>
     <p align="center"> 🇨🇳热爱可抵岁月漫长，温柔可挡艰难时光🇨🇳 </p>
 </p>
