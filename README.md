@@ -6,9 +6,9 @@
 
 
 <p align="center"> Hi, there! </p>
-<p align="center"> 🌱 I’m currently learning C++、docker、Git、network-security etc </p>
-<p align="center"> 🤔 I’m looking for help with CTF studying </p>
-<p align="center"> 💬 Ask me about how a handsome man you are </p>
+<p align="center"> 🌱 I’m currently learning C++、docker、Git、Machine Learning etc </p>
+<p align="center"> 🤔 I’m looking for help with Deep Learning studying </p>
+<p align="center"> 💬 Ask me about Python、Qt、C++ etc </p>
 <p align="center"> 📫 How to reach me: Please send a letter to 3099215660@qq.com </p>
 <p align="center"> 😄 Pronouns: more focus, more accurate, faster and strong-willed </p>
 <p align="center"> ⚡ Fun fact: I'm a little bit uglier than John Lone </p>
