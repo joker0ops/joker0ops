@@ -1,5 +1,11 @@
+<style>
+img {
+  border-radius: 10px;
+  border: 2px solid #ccc;
+}
+</style>
 <p align="center">
-    <img width="140" height="140" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54493253?v=4" />
+    <img src="https://avatars.githubusercontent.com/u/54493253?v=4" width="140" height="140" />
     <h2 align="center">Bruce</h2>
     <p align="center"> 😍热爱可抵岁月漫长，温柔可挡艰难时光😍 </p>
 </p>
